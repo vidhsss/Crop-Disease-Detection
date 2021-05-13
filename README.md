@@ -1,1 +1,1 @@
-# test
+Crop recognition and disease detection
